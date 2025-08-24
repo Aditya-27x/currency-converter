@@ -24,7 +24,7 @@ function App() {
   }
 
   return (    
-      <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat'
+      <div className='w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat bg-center'
         style={{background:`url(' ${bgimg}')`,}}
       >
         <div className='w-full'>
